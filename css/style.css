@@ -1,0 +1,83 @@
+#btn {
+    background: maroon;
+    color: oldlace;
+    padding: 10px;
+}
+
+.cls {
+    width: 150px;
+    height: 100px;
+    background: orangered;
+}
+
+/*        odd,even,1st,last.nth*/
+
+.odd {
+    background: orange;
+    padding: 10px;
+}
+
+.even {
+    background: skyblue;
+    padding: 10px;
+}
+
+.first {
+    background: #b2dba1;
+    padding: 10px;
+}
+
+.last {
+    background: #f2dede;
+    padding: 10px;
+}
+
+.nth {
+    background: maroon;
+    color: oldlace;
+    padding: 10px;
+}
+
+
+.fn {
+    border: 2px solid red;
+}
+
+/*jQuery password strength checker using jquery keyup even*/
+
+.red {
+    background: #fffdf8;
+    border: 1px solid red;
+    padding: 5px 10px;
+    margin: 0px 5px;
+    color: black;
+    font-size: 12px;
+}
+
+.orange {
+    background: #fff791;
+    border: 1px solid red;
+    padding: 5px 10px;
+    margin: 0px 5px;
+    color: black;
+    font-size: 12px;
+}
+
+.green {
+    background: #ccffcc;
+    border: 1px solid red;
+    padding: 5px 10px;
+    margin: 0px 5px;
+    color: black;
+    font-size: 12px;
+}
+
+/*jQuery bind & unbind event*/
+
+#bg {
+    height: 200px;
+    width: 500px;
+    background: maroon;
+    padding: 30px;
+    color: oldlace;
+}
